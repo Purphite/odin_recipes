@@ -1,0 +1,16 @@
+h1, h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+a:visited {
+    color: white;
+}
+p, ol, ul, a:hover, a {
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+}
